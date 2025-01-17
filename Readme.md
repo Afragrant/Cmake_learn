@@ -8,19 +8,24 @@
 
 [编写CMake的最底层逻辑](编写CMake的最底层逻辑.md)
 
-代码：[编写CMake的最底层逻辑](./编写CMake的最底层逻辑)
+[代码](./编写CMake的最底层逻辑)
 
 ## 第二讲：静态库与动态库
 
 [静态库和动态库](./静态库和动态库.md)
-代码：[静态库和动态库](./静态库和动态库)
+[代码](./静态库和动态库)
 
 ## 第三讲：CMake 大一统
 
 [CMake大一统](./CMake大一统.md)
-代码：[CMake大一统](./CMake大一统)
+[代码](./CMake大一统)
 
 ## 第四讲：再探静态库与动态库（Linux）
 
 [再探静态库与动态库（Linux）](再探静态库与动态库(Linux).md)
 [代码](./再探静态库与动态库(Linux))
+
+## 第五讲：迈向 Modern CMake
+
+[迈向Modern CMake](迈向Modern_CMake.md)
+[代码](迈向Modern_CMake)
