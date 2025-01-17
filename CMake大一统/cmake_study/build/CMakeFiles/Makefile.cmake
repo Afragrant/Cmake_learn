@@ -7,11 +7,11 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/afragrant/Cmake_learn/cmake_study/CMakeLists.txt"
+  "/home/afragrant/Cmake_learn/CMake大一统/cmake_study/CMakeLists.txt"
   "CMakeFiles/3.28.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.28.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.28.3/CMakeSystem.cmake"
-  "/home/afragrant/Cmake_learn/cmake_study/lesson3_1/CMakeLists.txt"
+  "/home/afragrant/Cmake_learn/CMake大一统/cmake_study/lesson3_2/CMakeLists.txt"
   "/usr/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in"
   "/usr/share/cmake-3.28/Modules/CMakeCCompilerABI.c"
   "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake"
@@ -123,10 +123,10 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/3.28.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.28.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
-  "lesson3_1/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "lesson3_2/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "lesson3_1/CMakeFiles/lesson1_1.dir/DependInfo.cmake"
+  "lesson3_2/CMakeFiles/cmake_study.dir/DependInfo.cmake"
   )

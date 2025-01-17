@@ -1,0 +1,104 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "lesson4_2",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-lesson4_2-Debug-c53f4ffcfe4054c23497.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lesson4_2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "lesson4_2/add",
+					"jsonFile" : "directory-lesson4_2.add-Debug-df9dfd031a13f705bd09.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "lesson4_2/add",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "cmake_study",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "add_static::@dcfa797d4cf4e16ad2dd",
+					"jsonFile" : "target-add_static-Debug-79bfcf118b86d8e54f5e.json",
+					"name" : "add_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cmake_study::@b4e770d7efcf804892ea",
+					"jsonFile" : "target-cmake_study-Debug-a9148e9a164cee108f43.json",
+					"name" : "cmake_study",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/afragrant/project/cmake_study/build",
+		"source" : "/home/afragrant/project/cmake_study"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,8 @@
+/home/afragrant/project/cmake_study/build/CMakeFiles/edit_cache.dir
+/home/afragrant/project/cmake_study/build/CMakeFiles/rebuild_cache.dir
+/home/afragrant/project/cmake_study/build/lesson4_2/CMakeFiles/cmake_study.dir
+/home/afragrant/project/cmake_study/build/lesson4_2/CMakeFiles/edit_cache.dir
+/home/afragrant/project/cmake_study/build/lesson4_2/CMakeFiles/rebuild_cache.dir
+/home/afragrant/project/cmake_study/build/lesson4_2/add/CMakeFiles/add_static.dir
+/home/afragrant/project/cmake_study/build/lesson4_2/add/CMakeFiles/edit_cache.dir
+/home/afragrant/project/cmake_study/build/lesson4_2/add/CMakeFiles/rebuild_cache.dir

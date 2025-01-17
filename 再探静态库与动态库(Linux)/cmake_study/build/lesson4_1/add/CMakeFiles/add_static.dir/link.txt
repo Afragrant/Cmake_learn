@@ -1,0 +1,2 @@
+/usr/bin/ar qc libadd_static.a CMakeFiles/add_static.dir/add.cpp.o
+/usr/bin/ranlib libadd_static.a

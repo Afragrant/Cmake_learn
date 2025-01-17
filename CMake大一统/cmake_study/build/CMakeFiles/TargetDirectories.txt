@@ -1,5 +1,5 @@
-/home/afragrant/Cmake_learn/cmake_study/build/CMakeFiles/edit_cache.dir
-/home/afragrant/Cmake_learn/cmake_study/build/CMakeFiles/rebuild_cache.dir
-/home/afragrant/Cmake_learn/cmake_study/build/lesson3_1/CMakeFiles/lesson1_1.dir
-/home/afragrant/Cmake_learn/cmake_study/build/lesson3_1/CMakeFiles/edit_cache.dir
-/home/afragrant/Cmake_learn/cmake_study/build/lesson3_1/CMakeFiles/rebuild_cache.dir
+/home/afragrant/Cmake_learn/CMake大一统/cmake_study/build/CMakeFiles/edit_cache.dir
+/home/afragrant/Cmake_learn/CMake大一统/cmake_study/build/CMakeFiles/rebuild_cache.dir
+/home/afragrant/Cmake_learn/CMake大一统/cmake_study/build/lesson3_2/CMakeFiles/cmake_study.dir
+/home/afragrant/Cmake_learn/CMake大一统/cmake_study/build/lesson3_2/CMakeFiles/edit_cache.dir
+/home/afragrant/Cmake_learn/CMake大一统/cmake_study/build/lesson3_2/CMakeFiles/rebuild_cache.dir

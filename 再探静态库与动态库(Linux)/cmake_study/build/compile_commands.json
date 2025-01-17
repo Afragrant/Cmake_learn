@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/afragrant/project/cmake_study/build/lesson4_2",
+  "command": "/usr/bin/g++  -I/home/afragrant/project/cmake_study/lesson4_2/./lib -g -o CMakeFiles/cmake_study.dir/main.cpp.o -c /home/afragrant/project/cmake_study/lesson4_2/main.cpp",
+  "file": "/home/afragrant/project/cmake_study/lesson4_2/main.cpp",
+  "output": "lesson4_2/CMakeFiles/cmake_study.dir/main.cpp.o"
+},
+{
+  "directory": "/home/afragrant/project/cmake_study/build/lesson4_2/add",
+  "command": "/usr/bin/g++ -Dadd_static_EXPORTS  -g -fPIC -o CMakeFiles/add_static.dir/add.cpp.o -c /home/afragrant/project/cmake_study/lesson4_2/add/add.cpp",
+  "file": "/home/afragrant/project/cmake_study/lesson4_2/add/add.cpp",
+  "output": "lesson4_2/add/CMakeFiles/add_static.dir/add.cpp.o"
+}
+]

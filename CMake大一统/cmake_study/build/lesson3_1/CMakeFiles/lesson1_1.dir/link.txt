@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/lesson1_1.dir/main.cpp.o CMakeFiles/lesson1_1.dir/add.cpp.o -o lesson1_1 

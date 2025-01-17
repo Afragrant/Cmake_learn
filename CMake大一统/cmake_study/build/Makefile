@@ -60,10 +60,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/afragrant/Cmake_learn/cmake_study
+CMAKE_SOURCE_DIR = /home/afragrant/Cmake_learn/CMake大一统/cmake_study
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/afragrant/Cmake_learn/cmake_study/build
+CMAKE_BINARY_DIR = /home/afragrant/Cmake_learn/CMake大一统/cmake_study/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -90,9 +90,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/afragrant/Cmake_learn/cmake_study/build/CMakeFiles /home/afragrant/Cmake_learn/cmake_study/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/afragrant/Cmake_learn/CMake大一统/cmake_study/build/CMakeFiles /home/afragrant/Cmake_learn/CMake大一统/cmake_study/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/afragrant/Cmake_learn/cmake_study/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/afragrant/Cmake_learn/CMake大一统/cmake_study/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -120,17 +120,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named lesson1_1
+# Target rules for targets named cmake_study
 
 # Build rule for target.
-lesson1_1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lesson1_1
-.PHONY : lesson1_1
+cmake_study: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 cmake_study
+.PHONY : cmake_study
 
 # fast build rule for target.
-lesson1_1/fast:
-	$(MAKE) $(MAKESILENT) -f lesson3_1/CMakeFiles/lesson1_1.dir/build.make lesson3_1/CMakeFiles/lesson1_1.dir/build
-.PHONY : lesson1_1/fast
+cmake_study/fast:
+	$(MAKE) $(MAKESILENT) -f lesson3_2/CMakeFiles/cmake_study.dir/build.make lesson3_2/CMakeFiles/cmake_study.dir/build
+.PHONY : cmake_study/fast
 
 # Help Target
 help:
@@ -140,7 +140,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... lesson1_1"
+	@echo "... cmake_study"
 .PHONY : help
 
 

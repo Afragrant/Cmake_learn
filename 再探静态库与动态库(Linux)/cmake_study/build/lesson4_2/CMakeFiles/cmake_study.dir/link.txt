@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cmake_study.dir/main.cpp.o -o cmake_study   -L/home/afragrant/project/cmake_study/lesson4_1/lib  -Wl,-rpath,/home/afragrant/project/cmake_study/lesson4_1/lib -ladd_static 

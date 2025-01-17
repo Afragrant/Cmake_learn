@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libadd_static.so -o libadd_static.so CMakeFiles/add_static.dir/add.cpp.o 
