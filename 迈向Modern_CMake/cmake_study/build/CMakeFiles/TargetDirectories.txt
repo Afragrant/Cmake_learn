@@ -1,0 +1,17 @@
+/home/afragrant/project/cmake_study/build/CMakeFiles/edit_cache.dir
+/home/afragrant/project/cmake_study/build/CMakeFiles/rebuild_cache.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/CMakeFiles/lesson3_1.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/CMakeFiles/edit_cache.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/CMakeFiles/rebuild_cache.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/common/CMakeFiles/common.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/common/CMakeFiles/edit_cache.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/common/CMakeFiles/rebuild_cache.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/add/CMakeFiles/add.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/add/CMakeFiles/edit_cache.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/add/CMakeFiles/rebuild_cache.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/sub/CMakeFiles/sub.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/sub/CMakeFiles/edit_cache.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/sub/CMakeFiles/rebuild_cache.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/calculator/CMakeFiles/calculator.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/calculator/CMakeFiles/edit_cache.dir
+/home/afragrant/project/cmake_study/build/lesson5_1/calculator/CMakeFiles/rebuild_cache.dir

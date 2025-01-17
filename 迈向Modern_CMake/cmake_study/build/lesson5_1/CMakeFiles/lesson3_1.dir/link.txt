@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/lesson3_1.dir/main.cpp.o -o lesson3_1  calculator/libcalculator.a add/libadd.a sub/libsub.a common/libcommon.a 

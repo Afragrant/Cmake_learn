@@ -1,0 +1,121 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "lesson5_1/calculator/libcalculator.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"lesson5_1/calculator/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/afragrant/project/cmake_study/lesson5_1/calculator/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/afragrant/project/cmake_study/lesson5_1/add/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/afragrant/project/cmake_study/lesson5_1/sub/."
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "common::@97d1c8bb3277e49f7552"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "add::@b050963d402a6decf129"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "sub::@6fdccd3aeb370d54eb7a"
+		}
+	],
+	"id" : "calculator::@c69b3d0c1a54ba3a5c43",
+	"name" : "calculator",
+	"nameOnDisk" : "libcalculator.a",
+	"paths" : 
+	{
+		"build" : "lesson5_1/calculator",
+		"source" : "lesson5_1/calculator"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lesson5_1/calculator/calculator.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

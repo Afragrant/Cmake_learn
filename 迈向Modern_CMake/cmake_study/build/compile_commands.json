@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/afragrant/project/cmake_study/build/lesson5_1",
+  "command": "/usr/bin/g++  -I/home/afragrant/project/cmake_study/lesson5_1/calculator/. -g -o CMakeFiles/lesson3_1.dir/main.cpp.o -c /home/afragrant/project/cmake_study/lesson5_1/main.cpp",
+  "file": "/home/afragrant/project/cmake_study/lesson5_1/main.cpp",
+  "output": "lesson5_1/CMakeFiles/lesson3_1.dir/main.cpp.o"
+},
+{
+  "directory": "/home/afragrant/project/cmake_study/build/lesson5_1/common",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/common.dir/common.cpp.o -c /home/afragrant/project/cmake_study/lesson5_1/common/common.cpp",
+  "file": "/home/afragrant/project/cmake_study/lesson5_1/common/common.cpp",
+  "output": "lesson5_1/common/CMakeFiles/common.dir/common.cpp.o"
+},
+{
+  "directory": "/home/afragrant/project/cmake_study/build/lesson5_1/add",
+  "command": "/usr/bin/g++  -I/home/afragrant/project/cmake_study/lesson5_1/add/. -I/home/afragrant/project/cmake_study/lesson5_1/common/. -g -o CMakeFiles/add.dir/add.cpp.o -c /home/afragrant/project/cmake_study/lesson5_1/add/add.cpp",
+  "file": "/home/afragrant/project/cmake_study/lesson5_1/add/add.cpp",
+  "output": "lesson5_1/add/CMakeFiles/add.dir/add.cpp.o"
+},
+{
+  "directory": "/home/afragrant/project/cmake_study/build/lesson5_1/sub",
+  "command": "/usr/bin/g++  -I/home/afragrant/project/cmake_study/lesson5_1/sub/. -I/home/afragrant/project/cmake_study/lesson5_1/common/. -g -o CMakeFiles/sub.dir/sub.cpp.o -c /home/afragrant/project/cmake_study/lesson5_1/sub/sub.cpp",
+  "file": "/home/afragrant/project/cmake_study/lesson5_1/sub/sub.cpp",
+  "output": "lesson5_1/sub/CMakeFiles/sub.dir/sub.cpp.o"
+},
+{
+  "directory": "/home/afragrant/project/cmake_study/build/lesson5_1/calculator",
+  "command": "/usr/bin/g++  -I/home/afragrant/project/cmake_study/lesson5_1/calculator/. -I/home/afragrant/project/cmake_study/lesson5_1/add/. -I/home/afragrant/project/cmake_study/lesson5_1/sub/. -g -o CMakeFiles/calculator.dir/calculator.cpp.o -c /home/afragrant/project/cmake_study/lesson5_1/calculator/calculator.cpp",
+  "file": "/home/afragrant/project/cmake_study/lesson5_1/calculator/calculator.cpp",
+  "output": "lesson5_1/calculator/CMakeFiles/calculator.dir/calculator.cpp.o"
+}
+]
