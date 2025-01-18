@@ -29,3 +29,13 @@
 
 [迈向Modern CMake](迈向Modern_CMake.md)
 [代码](迈向Modern_CMake)
+
+## 第六讲：Find_package
+
+[Find_package](./Find_package.md)
+[代码](./Find_package)
+
+## 第七讲：花式摆弄静态库与动态库
+
+[花式摆弄静态库与动态库](./花式摆弄静态库与动态库.md)
+[代码](./花式摆弄静态库与动态库)
