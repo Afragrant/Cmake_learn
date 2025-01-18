@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libsub.so -o libsub.so CMakeFiles/sub_object.dir/sub.cpp.o ../common/CMakeFiles/common_object.dir/common.cpp.o 

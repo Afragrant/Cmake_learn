@@ -1,0 +1,215 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "lesson7_2",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-lesson7_2-Debug-394442f5f26a7991349a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lesson7_2",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "lesson7_2/common",
+					"jsonFile" : "directory-lesson7_2.common-Debug-959eb97d200251de76ac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "lesson7_2/common",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				},
+				{
+					"build" : "lesson7_2/add",
+					"jsonFile" : "directory-lesson7_2.add-Debug-1caf341273ba024462f5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "lesson7_2/add",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "lesson7_2/sub",
+					"jsonFile" : "directory-lesson7_2.sub-Debug-5690b58d726ec4858098.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "lesson7_2/sub",
+					"targetIndexes" : 
+					[
+						7,
+						8
+					]
+				},
+				{
+					"build" : "lesson7_2/calculator",
+					"jsonFile" : "directory-lesson7_2.calculator-Debug-799d1c0ee77c8e800a7d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "lesson7_2/calculator",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "cmake_study",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "add::@d0f3ca1594dae8c6e375",
+					"jsonFile" : "target-add-Debug-2c87ef4e23e50f3fc2db.json",
+					"name" : "add",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "add_object::@d0f3ca1594dae8c6e375",
+					"jsonFile" : "target-add_object-Debug-fc72890bd34ddc7d2f2d.json",
+					"name" : "add_object",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "calculator::@1e941ca3c367edaea3d5",
+					"jsonFile" : "target-calculator-Debug-54d906d46d348814d679.json",
+					"name" : "calculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "calculator_object::@1e941ca3c367edaea3d5",
+					"jsonFile" : "target-calculator_object-Debug-be3493ad8a1b55b586d7.json",
+					"name" : "calculator_object",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "common::@98b85f4b57f7387d558b",
+					"jsonFile" : "target-common-Debug-143af6a0080b5cffd739.json",
+					"name" : "common",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "common_object::@98b85f4b57f7387d558b",
+					"jsonFile" : "target-common_object-Debug-d04d2d03e0868e4449ad.json",
+					"name" : "common_object",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "lesson7_2::@e63a93ea4cd1192ff338",
+					"jsonFile" : "target-lesson7_2-Debug-1c85fc1887785d80c47a.json",
+					"name" : "lesson7_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "sub::@ff721d8dd3b382a194af",
+					"jsonFile" : "target-sub-Debug-a15ee10957aaaedf1d0b.json",
+					"name" : "sub",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "sub_object::@ff721d8dd3b382a194af",
+					"jsonFile" : "target-sub_object-Debug-956c588aa6b8871bc6d4.json",
+					"name" : "sub_object",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/afragrant/project/cmake_study/build",
+		"source" : "/home/afragrant/project/cmake_study"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

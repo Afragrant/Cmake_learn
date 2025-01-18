@@ -1,0 +1,84 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "lesson7_2/common/libcommon.so"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"lesson7_2/common/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "common_object::@98b85f4b57f7387d558b"
+		}
+	],
+	"id" : "common::@98b85f4b57f7387d558b",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "common",
+	"nameOnDisk" : "libcommon.so",
+	"paths" : 
+	{
+		"build" : "lesson7_2/common",
+		"source" : "lesson7_2/common"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Object Libraries",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/lesson7_2/common/CMakeFiles/common_object.dir/common.cpp.o",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

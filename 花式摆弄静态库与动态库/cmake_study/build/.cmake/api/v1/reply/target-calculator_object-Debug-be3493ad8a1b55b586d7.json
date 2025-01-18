@@ -1,0 +1,104 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "lesson7_2/calculator/CMakeFiles/calculator_object.dir/calculator.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"lesson7_2/calculator/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -fPIC"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "/home/afragrant/project/cmake_study/lesson7_2/sub/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/afragrant/project/cmake_study/lesson7_2/add/."
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "add::@d0f3ca1594dae8c6e375"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "sub::@ff721d8dd3b382a194af"
+		}
+	],
+	"id" : "calculator_object::@1e941ca3c367edaea3d5",
+	"name" : "calculator_object",
+	"paths" : 
+	{
+		"build" : "lesson7_2/calculator",
+		"source" : "lesson7_2/calculator"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lesson7_2/calculator/calculator.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

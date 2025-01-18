@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libcommon.so -o libcommon.so CMakeFiles/common_object.dir/common.cpp.o 

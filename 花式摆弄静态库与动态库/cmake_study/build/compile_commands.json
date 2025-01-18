@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/afragrant/project/cmake_study/build/lesson7_2",
+  "command": "/usr/bin/g++  -I/home/afragrant/project/cmake_study/lesson7_2/calculator/. -g -o CMakeFiles/lesson7_2.dir/main.cpp.o -c /home/afragrant/project/cmake_study/lesson7_2/main.cpp",
+  "file": "/home/afragrant/project/cmake_study/lesson7_2/main.cpp",
+  "output": "lesson7_2/CMakeFiles/lesson7_2.dir/main.cpp.o"
+},
+{
+  "directory": "/home/afragrant/project/cmake_study/build/lesson7_2/common",
+  "command": "/usr/bin/g++   -g -fPIC -o CMakeFiles/common_object.dir/common.cpp.o -c /home/afragrant/project/cmake_study/lesson7_2/common/common.cpp",
+  "file": "/home/afragrant/project/cmake_study/lesson7_2/common/common.cpp",
+  "output": "lesson7_2/common/CMakeFiles/common_object.dir/common.cpp.o"
+},
+{
+  "directory": "/home/afragrant/project/cmake_study/build/lesson7_2/add",
+  "command": "/usr/bin/g++  -I/home/afragrant/project/cmake_study/lesson7_2/common/. -g -fPIC -o CMakeFiles/add_object.dir/add.cpp.o -c /home/afragrant/project/cmake_study/lesson7_2/add/add.cpp",
+  "file": "/home/afragrant/project/cmake_study/lesson7_2/add/add.cpp",
+  "output": "lesson7_2/add/CMakeFiles/add_object.dir/add.cpp.o"
+},
+{
+  "directory": "/home/afragrant/project/cmake_study/build/lesson7_2/sub",
+  "command": "/usr/bin/g++  -I/home/afragrant/project/cmake_study/lesson7_2/common/. -g -fPIC -o CMakeFiles/sub_object.dir/sub.cpp.o -c /home/afragrant/project/cmake_study/lesson7_2/sub/sub.cpp",
+  "file": "/home/afragrant/project/cmake_study/lesson7_2/sub/sub.cpp",
+  "output": "lesson7_2/sub/CMakeFiles/sub_object.dir/sub.cpp.o"
+},
+{
+  "directory": "/home/afragrant/project/cmake_study/build/lesson7_2/calculator",
+  "command": "/usr/bin/g++  -I/home/afragrant/project/cmake_study/lesson7_2/sub/. -I/home/afragrant/project/cmake_study/lesson7_2/add/. -g -fPIC -o CMakeFiles/calculator_object.dir/calculator.cpp.o -c /home/afragrant/project/cmake_study/lesson7_2/calculator/calculator.cpp",
+  "file": "/home/afragrant/project/cmake_study/lesson7_2/calculator/calculator.cpp",
+  "output": "lesson7_2/calculator/CMakeFiles/calculator_object.dir/calculator.cpp.o"
+}
+]

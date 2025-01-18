@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/lesson7_1.dir/main.cpp.o -o lesson7_1  calculator/libcalculator.a 
